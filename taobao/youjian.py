@@ -8,8 +8,8 @@ from email.mime.multipart import MIMEMultipart
 smtpserver = "smtp.163.com"           # 发件服务器
 #port = 0                                           # 端口
 sender = "merrydua@163.com"               # 账号
-psw = "zk123456"                             # 密码
-receiver = ["1021735369@qq.com", "1513177080@qq.com"]      # 接收人
+psw = "**"                             # 密码
+receiver = ["1513177080@qq.com"]      # 接收人
 
 # ----------2.编辑邮件的内容------
 # 读文件
